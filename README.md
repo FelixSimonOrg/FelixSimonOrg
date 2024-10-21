@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 **Hey there! I'm FelixSimon!**  
 
-<!--
-**FelixSimonOrg/FelixSimonOrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m a passionate developer with a love for creating **efficient** and **structured** applications. 
+Here's a little about me:
 
-Here are some ideas to get you started:
+## 🔭 **What I’m Working On:**
+- Crafting **C# applications** and services 
+- Leveraging **Azure AI** for chat completion and vector search 🔍
+- Building **API integrations** for data-driven applications.
+- Looking into **Nuxt** for web development 📱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ **Tech Stack:**
+- **Languages**: C#, Java, JavaScript, Python
+- **Frameworks/Libraries**: ASP.NET Core, WPF, Flutter, gRPC
+- **Tools & Platforms**: Azure Cognitive Search, Azure AI, Visual Studio
+
+## 📚 **Currently Studying!**
+
+I’m studying at **Technische Hochschule Rosenheim** after working as a **C# Developer**.
+
+## 🔗 **Let’s Connect!**
+ 
+Feel free to check out my projects, share feedback, or get in touch. I’m always up for a chat 😉
